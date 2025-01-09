@@ -17,20 +17,20 @@ nunjucks.configure("views", {
 app.use(express.json());
 app.set("view engine", "njk");
 // Test DB connection during server startup
-async function checkDatabaseConnection() {
-  try {
-    const pool = await poolPromise; // Get the connection pool
-    const result = await pool.request().query("SELECT 1 AS result"); // Test query
-    if (result.recordset[0].result === 1) {
-      console.log("Database connection successful!");
-    }
-  } catch (error) {
-    console.error("Database connection failed:", error.message);
-    process.exit(1); // Exit the application if the connection fails
-  }
-}
+// async function checkDatabaseConnection() {
+//   try {
+//     const pool = await poolPromise; // Get the connection pool
+//     const result = await pool.request().query("SELECT 1 AS result"); // Test query
+//     if (result.recordset[0].result === 1) {
+//       console.log("Database connection successful!");
+//     }
+//   } catch (error) {
+//     console.error("Database connection failed:", error.message);
+//     process.exit(1); // Exit the application if the connection fails
+//   }
+// }
 
-checkDatabaseConnection();
+// checkDatabaseConnection();
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Hello, Nunjucks!",
