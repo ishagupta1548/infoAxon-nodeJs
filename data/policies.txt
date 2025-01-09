@@ -1,0 +1,62 @@
+[
+    {
+        "policy_id": "P001",
+        "policy_name": "Health Insurance",
+        "premium_amount": 15000,
+        "duration": 20
+    },
+    {
+        "policy_id": "P002",
+        "policy_name": "Life Insurance",
+        "premium_amount": 30000,
+        "duration": 25
+    },
+    {
+        "policy_id": "P003",
+        "policy_name": "Car Insurance",
+        "premium_amount": 5000,
+        "duration": 10
+    },
+    {
+        "policy_id": "P004",
+        "policy_name": "Home Insurance",
+        "premium_amount": 20000,
+        "duration": 15
+    },
+    {
+        "policy_id": "P005",
+        "policy_name": "Travel Insurance",
+        "premium_amount": 12000,
+        "duration": 5
+    },
+    {
+        "policy_id": "P006",
+        "policy_name": "Health Insurance",
+        "premium_amount": 18000,
+        "duration": 10
+    },
+    {
+        "policy_id": "P007",
+        "policy_name": "Life Insurance",
+        "premium_amount": 40000,
+        "duration": 30
+    },
+    {
+        "policy_id": "P008",
+        "policy_name": "Car Insurance",
+        "premium_amount": 7000,
+        "duration": 8
+    },
+    {
+        "policy_id": "P009",
+        "policy_name": "Home Insurance",
+        "premium_amount": 25000,
+        "duration": 20
+    },
+    {
+        "policy_id": "P010",
+        "policy_name": "Travel Insurance",
+        "premium_amount": 10000,
+        "duration": 7
+    }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 28,
+    "address": "Delhi, Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Vivaan Patel",
+    "age": 34,
+    "address": "Mumbai, Maharashtra"
+  },
+  {
+    "id": 3,
+    "name": "Ananya Mehta",
+    "age": 25,
+    "address": "Bangalore, Karnataka"
+  },
+  {
+    "id": 4,
+    "name": "Diya Singh",
+    "age": 30,
+    "address": "Chennai, Tamil Nadu"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Verma",
+    "age": 45,
+    "address": "Kolkata, West Bengal"
+  },
+  {
+    "id": 6,
+    "name": "Ishaan Gupta",
+    "age": 50,
+    "address": "Ahmedabad, Gujarat"
+  },
+  {
+    "id": 7,
+    "name": "Kiara Kapoor",
+    "age": 22,
+    "address": "Pune, Maharashtra"
+  },
+  {
+    "id": 8,
+    "name": "Saanvi Chauhan",
+    "age": 40,
+    "address": "Hyderabad, Telangana"
+  },
+  {
+    "id": 9,
+    "name": "Rohan Nair",
+    "age": 35,
+    "address": "Jaipur, Rajasthan"
+  },
+  {
+    "id": 10,
+    "name": "Riya Reddy",
+    "age": 29,
+    "address": "Lucknow, Uttar Pradesh"
+  },
+  {
+    "name": "Aarav",
+    "email": "aarav@gmail.com"
+  },
+  {
+    "name": "Aarav",
+    "email": "aarav@gmail.com"
+  },
+  {
+    "name": "Isha Gupta",
+    "email": "isha@gmail.com"
+  }
+]
